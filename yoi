@@ -4,7 +4,7 @@
 #EXTINF:0 tvg-logo="https://www.dens.tv/images/channel-logo/9.jpg" group-title="Nasional",SCTV
 https://s.id/sctv_shareext-m3u8
 #EXTINF:0 tvg-logo="https://www.dens.tv/images/channel-logo/10.jpg" group-title="Nasional",Indosiar
-https://s.id/21ogW-indosiar
+https://s.id/indosiar_shareext-m3u8
 
 #EXTINF:0 tvg-logo="https://mncvision.id/userfiles/image/channel/metro_tv.png" group-title="Nasional",Metro TV
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
